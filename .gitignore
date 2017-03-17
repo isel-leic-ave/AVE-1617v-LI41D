@@ -288,4 +288,11 @@ __pycache__/
 !.vscode/launch.json
 !.vscode/extensions.json
 
+# java compiled files
+.class  
 
+*.class
+*.dll
+*.exe
+
+.vscode
