@@ -10,9 +10,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula2017-03-24", "src\Aula 2017-03-24\Aula2017-03-24.csproj", "{FEC3FD24-2337-4D88-AE31-6687E2DC8174}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula 2017-03-24", "src\Aula 2017-03-24\Aula 2017-03-24.csproj", "{FEC3FD24-2337-4D88-AE31-6687E2DC8174}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula 2017-03-24Tests", "src\Aula 2017-03-24Tests\Aula 2017-03-24Tests.csproj", "{8496D89D-BABD-4786-B8EF-03A31FAC1848}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula 2017-03-31_", "src\Aula 2017-03-31_\Aula 2017-03-31_.csproj", "{7B4CA1EF-D858-4EFF-8C19-5B381756D185}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,6 +34,10 @@ Global
 		{8496D89D-BABD-4786-B8EF-03A31FAC1848}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8496D89D-BABD-4786-B8EF-03A31FAC1848}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8496D89D-BABD-4786-B8EF-03A31FAC1848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B4CA1EF-D858-4EFF-8C19-5B381756D185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B4CA1EF-D858-4EFF-8C19-5B381756D185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B4CA1EF-D858-4EFF-8C19-5B381756D185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B4CA1EF-D858-4EFF-8C19-5B381756D185}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

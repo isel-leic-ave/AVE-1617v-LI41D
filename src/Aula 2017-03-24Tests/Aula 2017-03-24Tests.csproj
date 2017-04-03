@@ -51,9 +51,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Aula 2017-03-20\Aula 2017-03-20.csproj">
-      <Project>{9632f0cb-67c9-4b13-8560-838aa0dbdd5a}</Project>
-      <Name>Aula 2017-03-20</Name>
+    <ProjectReference Include="..\Aula 2017-03-24\Aula 2017-03-24.csproj">
+      <Project>{fec3fd24-2337-4d88-ae31-6687e2dc8174}</Project>
+      <Name>Aula 2017-03-24</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FEC3FD24-2337-4D88-AE31-6687E2DC8174}</ProjectGuid>
+    <ProjectGuid>{7B4CA1EF-D858-4EFF-8C19-5B381756D185}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Aula2017_03_20</RootNamespace>
-    <AssemblyName>Aula2017-03-20</AssemblyName>
+    <RootNamespace>Aula_2017_03_31</RootNamespace>
+    <AssemblyName>Aula 2017-03-31</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,13 +42,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="PointRef.cs" />
+    <Compile Include="PointValue.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="tpc1\Student.cs" />
-    <Compile Include="tpc1\StudentCreator.cs" />
+    <Compile Include="TestingTypes.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
