@@ -14,7 +14,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula 2017-03-24", "src\Aula
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula 2017-03-24Tests", "src\Aula 2017-03-24Tests\Aula 2017-03-24Tests.csproj", "{8496D89D-BABD-4786-B8EF-03A31FAC1848}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula 2017-03-31_", "src\Aula 2017-03-31_\Aula 2017-03-31_.csproj", "{7B4CA1EF-D858-4EFF-8C19-5B381756D185}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula 2017-03-31", "E:\OneDrive\OneDrive - Instituto Superior de Engenharia de Lisboa\ISEL\Disciplinas\2016_2017\2016-2017Ver-AVE\Repositories\AVE-1617v-LI41D\src\Aula 2017-03-31\Aula 2017-03-31.csproj", "{7B4CA1EF-D858-4EFF-8C19-5B381756D185}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula 2017-04-03", "E:\OneDrive\OneDrive - Instituto Superior de Engenharia de Lisboa\ISEL\Disciplinas\2016_2017\2016-2017Ver-AVE\Repositories\AVE-1617v-LI41D\src\Aula 2017-04-03\Aula 2017-04-03.csproj", "{364FB7BF-097D-478F-B96C-4755626FD801}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -38,6 +40,10 @@ Global
 		{7B4CA1EF-D858-4EFF-8C19-5B381756D185}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B4CA1EF-D858-4EFF-8C19-5B381756D185}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B4CA1EF-D858-4EFF-8C19-5B381756D185}.Release|Any CPU.Build.0 = Release|Any CPU
+		{364FB7BF-097D-478F-B96C-4755626FD801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{364FB7BF-097D-478F-B96C-4755626FD801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{364FB7BF-097D-478F-B96C-4755626FD801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{364FB7BF-097D-478F-B96C-4755626FD801}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
