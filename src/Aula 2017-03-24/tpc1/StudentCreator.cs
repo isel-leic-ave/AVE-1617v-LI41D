@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reflection;
 
-namespace Aula2017_03_20.tpc1
+namespace Aula2017_03_24.tpc1
 {
     public class StudentCreator
     {
