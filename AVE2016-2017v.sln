@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{047C3788-0ADF-46BB-AE18-AA1EDEC8D6E9}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
+		src\Aula 2017-05-22\Aula 2017-05-22.csproj = src\Aula 2017-05-22\Aula 2017-05-22.csproj
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula 2017-03-31", "E:\OneDrive\OneDrive - Instituto Superior de Engenharia de Lisboa\ISEL\Disciplinas\2016_2017\2016-2017Ver-AVE\Repositories\AVE-1617v-LI41D\src\Aula 2017-03-31\Aula 2017-03-31.csproj", "{7B4CA1EF-D858-4EFF-8C19-5B381756D185}"
@@ -32,9 +33,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula 2017-05-15", "src\Aula
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula 2017-05-19", "src\Aula 2017-05-19\Aula 2017-05-19.csproj", "{A642D7B0-39B8-400D-AE96-19F3C58B3080}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula 2017-05-22", "src\Aula2017-05-22\Aula 2017-05-22.csproj", "{65C6ED29-8EAE-4C6E-904F-4919CCABA27F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula 2017-06-02", "src\Aula 2017-06-02\Aula 2017-06-02.csproj", "{1D9F1F5A-C512-478A-A4C1-A3D22D3EB17C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula 2017-05-29", "src\Aula 2017-05-29\Aula 2017-05-29.csproj", "{6F962961-6FBB-4D6B-BEA1-814CB1BF7FC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula 2017-06-05", "Z:\src\Aula 2017-06-05\Aula 2017-06-05.csproj", "{3FD3C291-0E76-4D3A-97E4-F3317615DC62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula 2017-05-22", "src\Aula 2017-05-22\Aula 2017-05-22.csproj", "{65C6ED29-8EAE-4C6E-904F-4919CCABA27F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -90,14 +95,22 @@ Global
 		{A642D7B0-39B8-400D-AE96-19F3C58B3080}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A642D7B0-39B8-400D-AE96-19F3C58B3080}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A642D7B0-39B8-400D-AE96-19F3C58B3080}.Release|Any CPU.Build.0 = Release|Any CPU
-		{65C6ED29-8EAE-4C6E-904F-4919CCABA27F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{65C6ED29-8EAE-4C6E-904F-4919CCABA27F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{65C6ED29-8EAE-4C6E-904F-4919CCABA27F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{65C6ED29-8EAE-4C6E-904F-4919CCABA27F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D9F1F5A-C512-478A-A4C1-A3D22D3EB17C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D9F1F5A-C512-478A-A4C1-A3D22D3EB17C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D9F1F5A-C512-478A-A4C1-A3D22D3EB17C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D9F1F5A-C512-478A-A4C1-A3D22D3EB17C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6F962961-6FBB-4D6B-BEA1-814CB1BF7FC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6F962961-6FBB-4D6B-BEA1-814CB1BF7FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F962961-6FBB-4D6B-BEA1-814CB1BF7FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F962961-6FBB-4D6B-BEA1-814CB1BF7FC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FD3C291-0E76-4D3A-97E4-F3317615DC62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FD3C291-0E76-4D3A-97E4-F3317615DC62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FD3C291-0E76-4D3A-97E4-F3317615DC62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FD3C291-0E76-4D3A-97E4-F3317615DC62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65C6ED29-8EAE-4C6E-904F-4919CCABA27F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65C6ED29-8EAE-4C6E-904F-4919CCABA27F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65C6ED29-8EAE-4C6E-904F-4919CCABA27F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65C6ED29-8EAE-4C6E-904F-4919CCABA27F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
